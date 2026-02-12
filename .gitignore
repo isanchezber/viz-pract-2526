@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+.env
+
+# Cache y datos locales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.data/
+.cache/
+
+# IDE y editor
+.vscode/
+.idea/
+*.swp
+
+# Dagster
+dagster.yaml
+instance/
