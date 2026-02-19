@@ -16,5 +16,6 @@ __pycache__/
 *.swp
 
 # Dagster
+.tmp_dagster*
 dagster.yaml
 instance/
